@@ -1,10 +1,12 @@
 🎬 Comparative Analysis of Online Movie Ratings Across Platforms
 
+
 📌 Project Overview
 
 This project analyzes and compares movie ratings from major platforms including Fandango, IMDb, Rotten Tomatoes, and Metacritic. Using data analytics and statistical exploration, the goal is to understand how ratings differ across platforms and identify patterns, inconsistencies, and possible score inflation.
 
 The project demonstrates a full data analysis and data science workflow — from raw datasets to clean, visualized, and insight-driven conclusions.
+
 
 
 📂 Dataset
@@ -16,6 +18,7 @@ fandango_scrape.csv – Movie ratings collected from Fandango
 all_sites_scores.csv – Ratings from multiple platforms such as IMDb, Rotten Tomatoes, and Metacritic
 
 These datasets allow for direct comparison of movie scores across different rating systems.
+
 
 
 🔍 What This Project Does
@@ -35,6 +38,7 @@ Compares how platforms score the same movies
 Identifies patterns, correlations, and inconsistencies
 
 
+
 📊 Exploratory Data Analysis
 
 EDA is used to examine:
@@ -48,6 +52,7 @@ Differences between critic and audience scores
 Relationships between different rating sources
 
 Graphs and statistical summaries help uncover how rating behavior varies across platforms.
+
 
 
 📈 Key Insights
@@ -65,6 +70,7 @@ How users and critics evaluate films differently
 These findings are useful for understanding media analytics, consumer behavior, and rating systems.
 
 
+
 🛠️ Tools & Technologies
 
 Python
@@ -76,13 +82,16 @@ Matplotlib & Seaborn – Visualization
 Jupyter Notebook – Analysis and reporting
 
 
+
 📁 Repository Structure
+
 movie-ratings-analysis/
 │
 ├── movie_ratings_analysis.ipynb   # Main analysis notebook
 ├── fandango_scrape.csv            # Fandango ratings
 ├── all_sites_scores.csv           # Multi-platform ratings
 └── README.md
+
 
 
 🎯 Why This Project Matters
@@ -98,6 +107,7 @@ Compare and interpret complex data sources
 Communicate insights through visualizations
 
 Draw meaningful conclusions from data
+
 
 
 
